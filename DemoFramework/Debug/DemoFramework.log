@@ -1,0 +1,43 @@
+﻿  Cube.cpp
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawablespheresolution.h(20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\fileutility.h(19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\perspectivetransformsolution.h(61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\perspectivetransformsolution.h(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\perspectivetransformsolution.h(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\perspectivetransformsolution.h(63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\debugrendervisitor.h(22): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\debugrendervisitor.h(29): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\debugrendervisitor.h(34): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\debugrendervisitor.h(41): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\debugrendervisitor.h(46): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobject.h(61): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobject.h(69): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobject.h(76): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobject.h(82): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobject.h(89): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobject.h(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobject.h(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobjectwireframe.h(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobjectwireframe.h(47): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobjectwireframe.h(55): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobjectwireframe.h(62): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobjectwireframe.h(68): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobjectwireframe.h(75): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\cube.cpp(309): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\cube.cpp(445): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\cube.cpp(459): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\cube.cpp(505): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\san34\desktop\2017_fall\cse5542\lab3\demoframework\drawableobject.h(113): warning C4715: 'Crawfis::Graphics::DrawableObject::loadOBJ': not all control paths return a value
+  DemoFramework.vcxproj -> C:\Users\san34\Desktop\2017_Fall\CSE5542\lab3\Debug\DemoFramework.exe
+  DemoFramework.vcxproj -> C:\Users\san34\Desktop\2017_Fall\CSE5542\lab3\Debug\DemoFramework.pdb (Full PDB)
